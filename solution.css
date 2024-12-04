@@ -1,0 +1,45 @@
+* {
+   font-family: 'Poppins', sans-serif;
+}
+
+.solutions {
+   height: 250px;
+   width: 300px;
+}
+
+.fs-60 {
+   font-size: 50px;
+}
+
+.solution-img {
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+}
+
+.cloud-solutions {
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   gap: 20px;
+   padding: 40px;
+}
+
+.img-fluid {
+   height: 300px;
+   width: 100%;
+   border-radius: 15px;
+}
+
+.accordion-item p {
+   font-size: 18px;
+   
+}
+
+.card-title-solution {
+   height: 90px;
+   background-color: rgb(211, 241, 241);
+}
+
+
+

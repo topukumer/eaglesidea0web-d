@@ -1,0 +1,62 @@
+* {
+   font-family: 'Poppins', sans-serif;
+}
+
+.about-us {
+   height: 350px;
+   width: 400px;
+}
+
+.about {
+   font-size: 50px;
+}
+
+.about-image {
+   height: 500px;
+   width: 500px;
+   margin-left: 300px;
+}
+
+.about-container {
+   margin-right: 200px;
+}
+
+.about-container p {
+   font-size: 18px;
+}
+
+.monogram-container {
+   margin-left: 200px;
+}
+
+.monogram-container p {
+   font-size: 18px;
+}
+
+.Organogram-image {
+   height: 400px;
+   width: 400px;
+   margin-right: 200px;
+}
+
+.business {
+   height: 50px;
+   width: 50px;
+   mix-blend-mode: multiply;
+}
+
+.container-1 {
+   border: 2px solid rgb(211, 241, 241);
+}
+
+.container-1 p{
+   font-size: 18px;
+}
+
+.title {
+   background-color: rgb(211, 241, 241);
+}
+
+.business-support {
+   background-color: rgb(211, 241, 241);;
+}
